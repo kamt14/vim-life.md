@@ -1,11 +1,11 @@
-# Vim life.txt
+# 📓 Vim life.txt
 Este un archivo de texto para tomar tus apuntes y notas, etc. Está hecho usando vim y vimWiki he inspirado en [LinuxChad](https://www.youtube.com/watch?v=EUCneUnGjv8&t=160s) puedes usarlo y mejorarlo.
 
-## Requisitos
+## 📑 Requisitos
 - vim
 - vimWiki
 
-## Instalación
+## 🚦 Instalación
 1. Crear una carpeta para vimWiki
 
 ```
