@@ -1,9 +1,30 @@
 # 📓 Vim life.txt
 Este un archivo de texto para tomar tus apuntes y notas, etc. Está hecho usando vim y vimWiki he inspirado en [LinuxChad](https://www.youtube.com/watch?v=EUCneUnGjv8&t=160s) puedes usarlo y mejorarlo.
+Con ayuda de vim + vimWiki he implementado una forma fácil de llevar tus notas, calendario, etc.
+Esta es una pequeña versión, espero en un futuro seguir actualizando.
 
 ## 📑 Requisitos
 - vim
 - vimWiki
+
+## 🖥️ Formato
+El siguiente formato tiene el index.wiki donde están todos los atajos a lo necesario para llevar tus notas.
+
+life.txt
+
+- 📬 Inbox
+- 📆 Calendario
+- 📓 ToDo
+- 💻 Proyectos
+- 📈 Futuro
+- 📝 Notas
+
+## Calendario
+El calendar tiene las siguientes funciones para ser automatico.
+
+- Añade fechas.
+- Archiva días pasados.
+- Implementa tareas recurrentes.
 
 ## 🚦 Instalación
 1. Crear una carpeta para vimWiki
